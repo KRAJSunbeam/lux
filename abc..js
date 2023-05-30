@@ -1,2 +1,5 @@
 console.log("lux")
 console.log("dettol")
+console.log("nirma")
+console.log("m1")
+console.log("m2")
