@@ -1,2 +1,2 @@
-console.log(pramod)
+console.log("lux")
 console.log("dettol")
